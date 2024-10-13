@@ -1,1 +1,2 @@
 This repo contains two html files 1st is my resume with info and 2nd is the hyperlink from my drawing skill.
+You can save these two files in your Notepadd or Notepad++ and in your system with .html extension.This will give u a file in your system(my computer->html).By clicking on resume file it will open in chrome where you can see your resume website.In that resume-> in skills->click on drawing which will open up to another link in another tab.
